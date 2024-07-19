@@ -1,1 +1,1 @@
-# SMART-INTERNZ-
+# SMART-INTERNZ- Thyroid Classification
